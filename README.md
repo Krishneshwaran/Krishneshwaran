@@ -1,5 +1,5 @@
-<div style="text-align: center;">
-  <img src="https://socialify.git.ci/Krishneshwaran/Krishneshwaran/image?description=1&descriptionEditable=I%20specialize%20in%20Artificial%20Intelligence%20and%20Data%20Science.&font=Source%20Code%20Pro&language=1&name=1&pattern=Solid&theme=Dark" alt="Krishneshwaran" width="640" height="320" />
+<div >
+  <img style="text-align: center;" src="https://socialify.git.ci/Krishneshwaran/Krishneshwaran/image?description=1&descriptionEditable=I%20specialize%20in%20Artificial%20Intelligence%20and%20Data%20Science.&font=Source%20Code%20Pro&language=1&name=1&pattern=Solid&theme=Dark" alt="Krishneshwaran" width="640" height="320" />
 </div>
 
 <div style="text-align: center;">
