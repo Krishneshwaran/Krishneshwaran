@@ -6,7 +6,9 @@
 </p>
 
 ```yaml
-I’m a versatile developer with a passion for creating innovative solutions across various domains. My journey spans from mastering Python and machine learning to diving deep into AOSP/Custom OS development. I thrive on pushing the boundaries of what’s possible, whether it's building dynamic 3D applications or developing highly customized operating systems.
+I’m a versatile developer with a passion for creating innovative solutions across various domains.
+My journey spans from mastering Python and machine learning to diving deep into AOSP/Custom OS development.
+I thrive on pushing the boundaries of what’s possible, whether it's building dynamic 3D applications or developing highly customized operating systems.
 ```
 
 
