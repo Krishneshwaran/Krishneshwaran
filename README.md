@@ -3,5 +3,4 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6000F7&background=FFFFFF00&width=435&lines=Hello%F0%9F%91%8B" alt="Typing SVG" width="435" height="50" />
-</p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=6000F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hello%F0%9F%91%8B" alt="Typing SVG" /></a>
