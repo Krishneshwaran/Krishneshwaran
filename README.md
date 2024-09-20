@@ -19,3 +19,5 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishneshwaran&theme=tokyonight&hide_border=true" alt="aaronedev's Streak" height="165">
   </p>
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/krishneshwaran/count.svg)
