@@ -20,5 +20,6 @@
   </p>
 </div>
 
-
-<img allgn="center" src="https://profile-counter.glitch.me/krishneshwaran/count.svg" alt="Visitor Count" />
+<p align="center">
+<img src="https://profile-counter.glitch.me/krishneshwaran/count.svg" alt="Visitor Count" />
+</p>
