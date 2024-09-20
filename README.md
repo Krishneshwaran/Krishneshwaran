@@ -20,6 +20,5 @@
   </p>
 </div>
 
-<p align="center">
-![Visitor Count](https://profile-counter.glitch.me/krishneshwaran/count.svg)
-</p>
+
+<img allgn="center" src="https://profile-counter.glitch.me/krishneshwaran/count.svg" alt="Visitor Count" />
