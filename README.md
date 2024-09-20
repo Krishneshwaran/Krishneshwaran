@@ -5,11 +5,6 @@
   <img src="https://socialify.git.ci/Krishneshwaran/Krishneshwaran/image?description=1&descriptionEditable=I%20specialize%20in%20Artificial%20Intelligence%20and%20Data%20Science.&font=Source%20Code%20Pro&language=1&name=1&pattern=Solid&theme=Dark" alt="Krishneshwaran" width="640" height="320" />
 </p>
 
-```yaml
-I’m a versatile developer with a passion for creating innovative solutions across various domains.
-My journey spans from mastering Python and machine learning to diving deep into AOSP/Custom OS development.
-I thrive on pushing the boundaries of what’s possible, whether it's building dynamic 3D applications or developing highly customized operating systems.
-```
 
 
 [![Krishneshwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Krishneshwaran&bg_color=000000&color=6b6b6b&line=a6a6a6&point=7c7fda&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
