@@ -24,5 +24,6 @@
     <img src="https://api.githubtrends.io/user/svg/Krishneshwaran/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark">
   </p>
 <p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krishneshwaran&theme=dark" alt="GitHub Streak" /></a>
 <img src="https://profile-counter.glitch.me/krishneshwaran/count.svg" alt="Visitor Count" />
 </p>
