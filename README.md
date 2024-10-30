@@ -23,11 +23,11 @@
 <!--<p align="center">
     <img src="https://api.githubtrends.io/user/svg/Krishneshwaran/langs?time_range=one_year&use_percent=True&include_private=True&loc_metric=changed&theme=dark">
   </p>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krishneshwaran&theme=dark" alt="GitHub Streak" /></a>-->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=krishneshwaran&theme=dark" alt="GitHub Streak" /></a>
 <p align="center">
   
 <img src="https://profile-counter.glitch.me/krishneshwaran/count.svg" alt="Visitor Count" />
-</p>
+</p>-->
 <!-- Add badges in an organized, centered flexbox container -->
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Krishneshwaran&style=flat&color=3498DB"/>
