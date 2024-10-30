@@ -32,7 +32,6 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Krishneshwaran&style=flat&color=3498DB"/>
   <img alt="Followers" src="https://img.shields.io/github/followers/Krishneshwaran?label=Followers&style=flat&color=3498DB"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/DKrishneshwaran?label=Stars&style=flat&color=3498DB"/>
   <a href="https://github.com/sponsors/Krishneshwaran">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86" alt="Sponsor"/>
   </a>
